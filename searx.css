@@ -1,0 +1,21 @@
+@-moz-document  domain("331221.xyz"), domain("baresearch.org"), domain("copp.gg"), domain("darmarit.org/searx"), domain("etsi.me"), domain("fgiggle.com"), domain("freesearch.club"), domain("northboot.xyz"), domain("offtheradar.info"), domain("ooglester.com"), domain("opnxng.com"), domain("paulgo.io"), domain("priv.au"), domain("s.trung.fun"), domain("search.bowlman.org"), domain("search.bus-hit.me"), domain("search.citw.lgbt"), domain("search.cronobox.one"), domain("search.demoniak.ch"), domain("search.disroot.org"), domain("search.dojoro.de"), domain("search.fascinated.cc"), domain("search.fawkesguy.com"), domain("search.gcomm.ch"), domain("search.hbubli.cc"), domain("search.im-in.space"), domain("search.in.projectsegfau.lt"), domain("search.laksith.dev"), domain("search.leptons.xyz"), domain("search.lvkaszus.pl"), domain("search.mdosch.de"), domain("search.modalogi.com"), domain("search.ononoki.org"), domain("search.ovh"), domain("search.projectsegfau.lt"), domain("pjsfwklrellqoj275kzeu2tz4c3j5zktnqod56s7l5dc25ro3wgq.b32."), domain("search.rabbit-company.com"), domain("search.rhscz.eu"), domain("search.rowie.at"), domain("search.sapti.me"), domain("search.smnz.de"), domain("search.trom.tf"), domain("search.whateveritworks.org"), domain("search.zzls.xyz"), domain("searx.baczek.me"), domain("searx.be"), domain("searx.bissisoft.com"), domain("searx.catfluori.de"), domain("searx.cthd.icu"), domain("searx.daetalytica.io"), domain("searx.divided-by-zero.eu"), domain("searx.doofpot.nl"), domain("searx.ericaftereric.top"), domain("searx.fmac.xyz"), domain("searx.headpat.exchange"), domain("searx.juancord.xyz"), domain("searx.kutay.dev"), domain("searx.mha.fi"), domain("searx.namejeff.xyz"), domain("searx.netzspielplatz.de"), domain("searx.oakleycord.dev"), domain("searx.ox2.fr"), domain("searx.perennialte.ch"), domain("searx.prvcy.eu"), domain("searx.sev.monster"), domain("searx.si"), domain("searx.techsaviours.org"), domain("searx.thefloatinglab.world"), domain("searx.tiekoetter.com"), domain("searx.tuxcloud.net"), domain("searx.work"), domain("searx.zhenyapav.com"), domain("searxng.ch"), domain("searxng.nicfab.eu"), domain("searxng.no-logs.com"), domain("searxng.online"), domain("searxng.xcxc.eu"), domain("spot.murena.io"), domain("suche.tromdienste.de"), domain("sx.catgirl.cloud"), domain("www.gruble.de"), domain("www.jabber-germany.de/searx"), domain("xo.wtf") {
+
+body {
+    background-color: #161b22;
+}
+
+#search_header {
+    padding-top: 0.7em;
+    background-color: #161b22;
+    border-bottom: #161b22;
+}
+
+footer {
+    background-color: #21262d;
+}
+
+@media (prefers-color-scheme: dark) {
+        :root.theme-auto {
+        --color-base-background: #161b22;
+    }
+}
